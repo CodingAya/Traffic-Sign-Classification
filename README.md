@@ -2,8 +2,7 @@
 Aya El Janoussi
 
 # 🚦 Traffic Sign Classifier App
-Here's the link if you want to try it out: 👉[Here]
-(https://aya-traffic-sign-classification.streamlit.app/)👈
+Here's the link if you want to try it out: 👉 [Here](https://aya-traffic-sign-classification.streamlit.app/) 👈
 
 The Traffic Sign Classifier is a machine learning-powered web application designed to identify and classify various traffic signs from uploaded images. This application is built using the Streamlit framework along with TensorFlow, enabling users to interactively analyze traffic signs in real-time.
 
